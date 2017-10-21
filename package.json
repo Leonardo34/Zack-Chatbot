@@ -1,0 +1,19 @@
+{
+  "name": "zack",
+  "version": "1.0.0",
+  "description": "Chatbot to recommend events on Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardo34/Zack-Chatbot.git"
+  },
+  "author": "Leonardo Broch de Morais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonardo34/Zack-Chatbot/issues"
+  },
+  "homepage": "https://github.com/Leonardo34/Zack-Chatbot#readme"
+}
